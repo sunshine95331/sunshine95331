@@ -5,14 +5,24 @@
 </h1>
   
 <p align = "center">
-  <a href="#"><img src = "https://github-readme-stats.vercel.app/api?username=sunshine95331&show_icons=true&theme=transparent"></a>
-<!--   <br><br> -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+    <!--   <br><br> -->
 <!--   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sunshine95331&theme=dark&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" /></a> -->
 <!--   <a href="#"><img src = "https://github-readme-stats.vercel.app/api?username=sunshine95331&hide_border=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"></a> -->
 </p>
 
 <p align="left">
-<a href="mailto:sunshine95331@gmail.com">📭 I can help you.</a>
+<a href="mailto:sunshine95331@gmail.com">📭 Contact me.</a>
 </p>
 
 <!--
